@@ -7,7 +7,7 @@ redirect_from:
   - /about_CN.html
 ---
 
-我目前是一名硕士二年级的研究生，就读于[南开大学](https://www.nankai.edu.cn/)[计算机学院](https://cc.nankai.edu.cn/)，于2022年加入计算机视觉实验室，导师是[杨巨峰](https://cv.nankai.edu.cn/)教授。在此之前，我于2022年获得[四川大学](https://www.scu.edu.cn/)计算机科学与技术学士学位。
+我目前是一名硕士三年级的研究生，就读于[南开大学](https://www.nankai.edu.cn/)[计算机学院](https://cc.nankai.edu.cn/)，于2022年加入计算机视觉实验室，导师是[杨巨峰](https://cv.nankai.edu.cn/)教授。在此之前，我于2022年获得[四川大学](https://www.scu.edu.cn/)计算机科学与技术学士学位。
 
 在就读期间，我很荣幸得到南开大学[范登平](https://dengpingfan.github.io/)教授和清华大学[徐鹏](https://www.pengxu.net/)老师的共同指导。
 
