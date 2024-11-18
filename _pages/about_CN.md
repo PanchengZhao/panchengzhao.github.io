@@ -13,6 +13,13 @@ redirect_from:
 
 我的研究兴趣主要围绕计算机视觉和机器学习，特别关注伪装视觉感知，多模态学习和视频理解等任务。
 
+欢迎通过以下电子邮件地址与我联系：
+
+  - zhaopancheng@mail.nankai.edu.cn (常用)
+  - zhao_pancheng@foxmail.com
+  - pc.zhao99@gmail.com
+
+
 <br>
 <br>
 
