@@ -25,6 +25,7 @@ Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[12/2024]</font> I receive the <font style="color:rgb(219,122,27); font-weight: bold;"> 2024 China National Scholarship (Master Student) </font>.</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> I'm going to <font style="color:rgb(219,122,27); font-weight: bold;">Alibaba (Hangzhou) </font> for a summer internship.</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> I’m going to Seattle for <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[05/2024]</font> I will be attending <font style="color:rgb(219,122,27); font-weight: bold;">VALSE 2024 (Chongqing) </font> and <font style="color:rgb(219,122,27); font-weight: bold;">CCIG 2024 (Xi‘an) </font> and doing poster sharing at the conference, so feel free to discuss with me. </li>

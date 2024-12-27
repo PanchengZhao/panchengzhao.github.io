@@ -27,6 +27,7 @@ redirect_from:
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[12/2024]</font> 我获得了2024年 <font style="color:rgb(219,122,27); font-weight: bold;"> 研究生国家奖学金 </font> 。</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往 <font style="color:rgb(219,122,27); font-weight: bold;">阿里巴巴 (杭州) </font> 进行暑期实习。</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往美国西雅图参加 <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
   <li><font style="color:black; font-weight: bold;">[05/2024]</font> 我将参加 <font style="color:rgb(219,122,27); font-weight: bold;">VALSE 2024 (Chongqing) </font> 和 <font style="color:rgb(219,122,27); font-weight: bold;">CCIG 2024 (Xi‘an) </font> 并且在会议现场做Posetr分享，欢迎大家与我现场交流。 </li>
