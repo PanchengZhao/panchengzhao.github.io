@@ -25,6 +25,7 @@ Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[4/2025]</font> Our survey on <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> is now available as a preprint on <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>. Feedback and discussion are warmly welcome. </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> I receive the <font style="color:rgb(219,122,27); font-weight: bold;"> 2024 China National Scholarship (Master Student) </font>.</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> I'm going to <font style="color:rgb(219,122,27); font-weight: bold;">Alibaba (Hangzhou) </font> for a summer internship.</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> I’m going to Seattle for <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
