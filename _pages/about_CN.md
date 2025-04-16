@@ -59,7 +59,7 @@ redirect_from:
 		 <p><a href="/publication/CDP_Preprint">隐蔽稠密预测</a></p>
 
 
-    <p><strong>赵攀诚</strong>, 范登平, 程书鹏, Salman Khan, Fahad Shahbaz Khan, David Clifton, 徐鹏, and 杨巨峰</p>
+    <p><strong>赵攀诚</strong>, 范登平, 程书鹏, Salman Khan, Fahad Shahbaz Khan, David Clifton, 徐鹏, 杨巨峰</p>
     
     <p>技术报告预印本, 2025年4月16日。</p>
     
