@@ -41,6 +41,29 @@ Publications
 
 <!-- <p>† indicates equal contribution.</p> -->
 
+<!-- Preprint CDP -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Technical Report</div>
+      <img src='papers/CDP/images/cdp_logo.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+		 <p><a href="/publication/CDP_Preprint">Deep Learning in Concealed Dense Prediction</a></p>
+
+
+    <p><strong>Pancheng Zhao</strong>, Deng-Ping Fan, Shupeng Cheng, Salman Khan, Fahad Shahbaz Khan, David Clifton, Peng Xu, and Jufeng Yang</p>
+    
+    <p>Technical Report, April 16, 2025.</p>
+    
+    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
+    <a href='https://github.com/PanchengZhao/Concealed-Dense-Prediction'><img src='https://img.shields.io/badge/Project Page-CDP-yellow' alt='Project Page'></a>
+  </div>
+</div>
+
+
 <!-- LAKERED CVPR24 -->
 
 <div class='paper-box'>
