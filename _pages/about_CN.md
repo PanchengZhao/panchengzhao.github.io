@@ -27,6 +27,7 @@ redirect_from:
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[04/2025]</font> 我们近期整理的一篇关于 <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> 的综述文章已经上线 <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>。 若有理解不当、疏漏之处，或有更多补充建议，欢迎大家随时交流指正。 </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> 我获得了2024年 <font style="color:rgb(219,122,27); font-weight: bold;"> 研究生国家奖学金 </font> 。</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往 <font style="color:rgb(219,122,27); font-weight: bold;">阿里巴巴 (杭州) </font> 进行暑期实习。</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往美国西雅图参加 <font style="color:rgb(219,122,27); font-weight: bold;">CVPR 2024</font>.</li>
@@ -44,6 +45,28 @@ redirect_from:
 <!-- <p>More publications can be found in <a href="">Google Scholar</a>.</p> -->
 
 <!-- <p>† indicates equal contribution.</p> -->
+
+<!-- Preprint CDP -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">技术报告</div>
+      <img src='papers/CDP/images/cdp_logo.png' width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+		 <p><a href="/publication/CDP_Preprint">隐蔽稠密预测</a></p>
+
+
+    <p><strong>赵攀诚</strong>, 范登平, 程书鹏, Salman Khan, Fahad Shahbaz Khan, David Clifton, 徐鹏, and 杨巨峰</p>
+    
+    <p>技术报告预印本, 2025年4月16日。</p>
+    
+    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
+    <a href='https://github.com/PanchengZhao/Concealed-Dense-Prediction'><img src='https://img.shields.io/badge/Project Page-CDP-yellow' alt='Project Page'></a>
+  </div>
+</div>
 
 <!-- LAKERED CVPR24 -->
 
