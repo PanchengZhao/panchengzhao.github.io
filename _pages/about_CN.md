@@ -52,7 +52,7 @@ redirect_from:
   <div class='paper-box-image'>
     <div>
       <div class="badge">技术报告</div>
-      <img src='papers/CDP/images/cdp_logo.png' width="100%">
+      <img src='../papers/CDP/images/cdp_logo.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
