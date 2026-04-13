@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year master’s student in the [Colledge of Computer Science](https://cc.nankai.edu.cn/) at [Nankai University](https://www.nankai.edu.cn/), supervised by [Prof. Jufeng Yang](https://cv.nankai.edu.cn/) in Computer Vision Lab. Before that, I received my bachelor’s degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn/) in 2022.
+I am currently working at Huawei 2012 Laboratories, Central Media Technology Institute, where I mainly focus on AI Infra, video understanding, and Xiaoyi Agent. Before that, I completed my master's degree in the [College of Computer Science](https://cc.nankai.edu.cn/) at [Nankai University](https://www.nankai.edu.cn/), supervised by [Prof. Jufeng Yang](https://cv.nankai.edu.cn/) in the Computer Vision Lab. I received my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn/) in 2022.
 
-I am very fortunate to be co-advised by [Prof. Deng-Ping Fan](https://dengpingfan.github.io/) of Nankai University and [Peng Xu](https://www.pengxu.net/) of Tsinghua University.
+During my graduate study, I was also fortunate to be co-advised by [Prof. Deng-Ping Fan](https://dengpingfan.github.io/) of Nankai University and [Peng Xu](https://www.pengxu.net/) of Tsinghua University.
 
-My research interests primarily revolve around computer vision and machine learning, with a particular focus on camouflaged vision perception, mutimodal learning, and video understanding.
+My current research interests center on agents, video understanding, and multimodal intelligence. More recently, I have become particularly interested in building systems that connect foundation models with practical reasoning, interaction, and real-world media understanding. Camouflaged visual perception has also been a research direction I invested in continuously in earlier years, and I still keep an eye on it.
 
 Feel free to reach out to me at the following email addresses:
 
@@ -25,6 +25,7 @@ Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[07/2025]</font> I joined <font style="color:rgb(219,122,27); font-weight: bold;">Huawei 2012 Laboratories, Central Media Technology Institute</font>, where I mainly work on AI infrastructure, video understanding, and Xiaoyi Agent-related development.</li>
   <li><font style="color:black; font-weight: bold;">[04/2025]</font> Our survey on <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> is now available as a preprint on <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>. Feedback and discussion are warmly welcome. </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> I receive the <font style="color:rgb(219,122,27); font-weight: bold;"> 2024 China National Scholarship (Master Student) </font>.</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> I'm going to <font style="color:rgb(219,122,27); font-weight: bold;">Alibaba (Hangzhou) </font> for a summer internship.</li>

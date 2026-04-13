@@ -7,11 +7,11 @@ redirect_from:
   - /about_CN.html
 ---
 
-我目前是一名硕士三年级的研究生，就读于[南开大学](https://www.nankai.edu.cn/)[计算机学院](https://cc.nankai.edu.cn/)，于2022年加入计算机视觉实验室，导师是[杨巨峰](https://cv.nankai.edu.cn/)教授。在此之前，我于2022年获得[四川大学](https://www.scu.edu.cn/)计算机科学与技术学士学位。
+我目前就职于华为2012实验室中央媒体技术院，当前主要从事AI Infra、视频理解以及小艺Agent相关工作。在此之前，我于南开大学[计算机学院](https://cc.nankai.edu.cn/)完成硕士阶段学习，2022年进入计算机视觉实验室，导师是[杨巨峰](https://cv.nankai.edu.cn/)教授；本科毕业于[四川大学](https://www.scu.edu.cn/)，获得计算机科学与技术学士学位。
 
-在就读期间，我很荣幸得到南开大学[范登平](https://dengpingfan.github.io/)教授和清华大学[徐鹏](https://www.pengxu.net/)老师的共同指导。
+在研究生阶段，我也很荣幸得到南开大学[范登平](https://dengpingfan.github.io/)教授和清华大学[徐鹏](https://www.pengxu.net/)老师的共同指导。
 
-我的研究兴趣主要围绕计算机视觉和机器学习，特别关注伪装视觉感知，多模态学习和视频理解等任务。
+我目前的研究兴趣主要聚焦于Agent、视频理解与多模态智能。相比以往，我现在更关注如何把基础模型、推理交互和真实媒体场景结合起来，构建更有实用价值的智能系统；伪装视觉感知是我此前持续投入过的一条研究方向，也在持续关注。
 
 欢迎通过以下电子邮件地址与我联系：
 
@@ -27,6 +27,7 @@ redirect_from:
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[07/2025]</font> 我加入了<font style="color:rgb(219,122,27); font-weight: bold;">华为2012实验室中央媒体技术院</font>，目前主要开展AI Infra、视频理解和小艺Agent开发等相关工作。</li>
   <li><font style="color:black; font-weight: bold;">[04/2025]</font> 我们近期整理的一篇关于 <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> 的综述文章已经上线 <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>。 若有理解不当、疏漏之处，或有更多补充建议，欢迎大家随时交流指正。 </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> 我获得了2024年 <font style="color:rgb(219,122,27); font-weight: bold;"> 研究生国家奖学金 </font> 。</li>
   <li><font style="color:black; font-weight: bold;">[06/2024]</font> 我将前往 <font style="color:rgb(219,122,27); font-weight: bold;">阿里巴巴 (杭州) </font> 进行暑期实习。</li>
