@@ -25,6 +25,7 @@ Recent News
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[05/2026]</font> Our survey on <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction (CDP)</font> has been accepted by <font style="color:rgb(219,122,27); font-weight: bold;">ACM Computing Surveys</font> on May 14th. This work originated from our arXiv preprint released in April 2025.</li>
   <li><font style="color:black; font-weight: bold;">[07/2025]</font> I joined <font style="color:rgb(219,122,27); font-weight: bold;">Huawei 2012 Laboratories, Central Media Technology Institute</font>, where I mainly work on AI infrastructure, video understanding, and Xiaoyi Agent-related development.</li>
   <li><font style="color:black; font-weight: bold;">[04/2025]</font> Our survey on <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> is now available as a preprint on <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>. Feedback and discussion are warmly welcome. </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> I receive the <font style="color:rgb(219,122,27); font-weight: bold;"> 2024 China National Scholarship (Master Student) </font>.</li>
@@ -48,19 +49,19 @@ Publications
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Technical Report</div>
+      <div class="badge">CSUR 2026</div>
       <img src='papers/CDP/images/cdp_logo.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="/publication/CDP_Preprint">Deep Learning in Concealed Dense Prediction</a></p>
+		 <p><a href="/publication/CDP_CSUR26">Deep Learning in Concealed Dense Prediction</a></p>
 
 
     <p><strong>Pancheng Zhao</strong>, Deng-Ping Fan, Shupeng Cheng, Salman Khan, Fahad Shahbaz Khan, David Clifton, Peng Xu, and Jufeng Yang</p>
     
-    <p>Technical Report, April 16, 2025.</p>
+    <p>ACM Computing Surveys, May 14, 2026.</p>
     
-    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
+    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href='https://dl.acm.org/doi/10.1145/3820770'><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
     <a href='https://github.com/PanchengZhao/Concealed-Dense-Prediction'><img src='https://img.shields.io/badge/Project Page-CDP-yellow' alt='Project Page'></a>
   </div>
 </div>

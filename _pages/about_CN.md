@@ -27,6 +27,7 @@ redirect_from:
 ======
 
 <ul style="padding-left: 40px; padding-bottom: 0px;">
+  <li><font style="color:black; font-weight: bold;">[05/2026]</font> 综述论文《Deep Learning in Concealed Dense Prediction》于5月14日被<font style="color:rgb(219,122,27); font-weight: bold;">ACM Computing Surveys</font>期刊收录。</li>
   <li><font style="color:black; font-weight: bold;">[07/2025]</font> 我加入了<font style="color:rgb(219,122,27); font-weight: bold;">华为2012实验室中央媒体技术院</font>，目前主要开展AI Infra、视频理解和小艺Agent开发等相关工作。</li>
   <li><font style="color:black; font-weight: bold;">[04/2025]</font> 我们近期整理的一篇关于 <font style="color:rgb(219,122,27); font-weight: bold;">Concealed Dense Prediction</font> 的综述文章已经上线 <font style="color:rgb(219,122,27); font-weight: bold;"><a href="http://arxiv.org/abs/2504.10979">arXiv</a></font>。 若有理解不当、疏漏之处，或有更多补充建议，欢迎大家随时交流指正。 </li>
   <li><font style="color:black; font-weight: bold;">[12/2024]</font> 我获得了2024年 <font style="color:rgb(219,122,27); font-weight: bold;"> 研究生国家奖学金 </font> 。</li>
@@ -52,19 +53,19 @@ redirect_from:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">技术报告</div>
+      <div class="badge">CSUR 2026</div>
       <img src='../papers/CDP/images/cdp_logo.png' width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-		 <p><a href="/publication/CDP_Preprint">隐蔽稠密预测</a></p>
+		 <p><a href="/publication/CDP_CSUR26">隐蔽稠密预测</a></p>
 
 
     <p><strong>赵攀诚</strong>, 范登平, 程书鹏, Salman Khan, Fahad Shahbaz Khan, David Clifton, 徐鹏, 杨巨峰</p>
     
-    <p>技术报告预印本, 2025年4月16日。</p>
+    <p>ACM Computing Surveys, 2026年5月14日。</p>
     
-    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href=''><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
+    <a href="http://arxiv.org/abs/2504.10979"><img src='https://img.shields.io/badge/PDF-CDP-red' alt='Paper PDF'></a>	<a href='https://dl.acm.org/doi/10.1145/3820770'><img src='https://img.shields.io/badge/Official Version-CDP-blue' alt='Project Page'></a>	
     <a href='https://github.com/PanchengZhao/Concealed-Dense-Prediction'><img src='https://img.shields.io/badge/Project Page-CDP-yellow' alt='Project Page'></a>
   </div>
 </div>
